@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/include/Data.h
+string
+-
+vector
+-
+iostream
+-
+myTypes.h
+../src/include/myTypes.h
+
+../src/include/myTypes.h
+boost/interprocess/managed_shared_memory.hpp
+-
+boost/interprocess/allocators/allocator.hpp
+-
+boost/interprocess/containers/string.hpp
+-
+boost/interprocess/containers/vector.hpp
+-
+boost/interprocess/containers/map.hpp
+-
+chrono
+-
+
+/home/vadim/Projects/Today/shm_class_in_class_in_map/src/source/reader.cpp
+cstring
+-
+cstdlib
+-
+string
+-
+iostream
+-
+Data.h
+/home/vadim/Projects/Today/shm_class_in_class_in_map/src/source/Data.h
+iomanip
+-
+

@@ -1,0 +1,4 @@
+/home/vadim/Projects/Today/shm_class_in_class_in_map/build/CMakeFiles/rebuild_cache.dir
+/home/vadim/Projects/Today/shm_class_in_class_in_map/build/CMakeFiles/edit_cache.dir
+/home/vadim/Projects/Today/shm_class_in_class_in_map/build/CMakeFiles/shm_reader.dir
+/home/vadim/Projects/Today/shm_class_in_class_in_map/build/CMakeFiles/shm_create.dir
